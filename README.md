@@ -27,9 +27,9 @@
 
 ---
 
-## 维护者正在寻找工作机会
+## 作者正在寻找工作机会
 
-维护者目前关注腾讯等大型科技企业在深圳的 AI 相关岗位，希望加入一支热爱 AI 开发的团队，继续从事 AI / Agent 产品开发、应用落地及 AI 咨询工作。
+作者目前关注腾讯等大型科技企业在深圳的 AI 相关岗位，希望加入一支热爱 AI 开发的团队，继续从事 AI / Agent 产品开发、应用落地及 AI 咨询工作。
 
 联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
 
@@ -226,7 +226,7 @@ FactReach 只提供公开信息检索、用户授权会话路由和本地工具�
 
 ## 赞赏
 
-如果 FactReach 节省了检索和配置时间，可以请维护者喝杯咖啡。
+如果 FactReach 节省了检索和配置时间，可以请作者喝杯咖啡。
 
 <p align="center">
   <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
@@ -236,4 +236,4 @@ FactReach 只提供公开信息检索、用户授权会话路由和本地工具�
 
 [MIT License](LICENSE)
 
-**维护者：** Simon 林 · X [@linsizhen](https://x.com/linsizhen) · 邮箱：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
+**作者：** Simon 林 · X [@linsizhen](https://x.com/linsizhen) · 邮箱：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)

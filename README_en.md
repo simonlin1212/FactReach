@@ -27,9 +27,9 @@
 
 ---
 
-## The Maintainer Is Open to Opportunities
+## The Author Is Open to Opportunities
 
-The maintainer is open to AI roles at Tencent and other leading technology companies in Shenzhen, and hopes to join a team passionate about AI development. Areas of interest include AI / Agent product development, real-world deployment, and AI consulting.
+The author is open to AI roles at Tencent and other leading technology companies in Shenzhen, and hopes to join a team passionate about AI development. Areas of interest include AI / Agent product development, real-world deployment, and AI consulting.
 
 Contact: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
 
@@ -226,7 +226,7 @@ FactReach provides public-information retrieval, user-authorized session routing
 
 ## Support
 
-If FactReach saves you time, you can support its maintenance with a coffee.
+If FactReach saves you time, you can buy the author a coffee.
 
 <p align="center">
   <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
@@ -236,4 +236,4 @@ If FactReach saves you time, you can support its maintenance with a coffee.
 
 [MIT License](LICENSE)
 
-**Maintainer:** Simon Lin · X [@linsizhen](https://x.com/linsizhen) · Email: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
+**Author:** Simon Lin · X [@linsizhen](https://x.com/linsizhen) · Email: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
