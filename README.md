@@ -4,7 +4,9 @@
 
 <p align="center">
   <b>让 Agent 先查，再答；有证据，再下结论。</b><br>
-  23 个互联网渠道 · 零鉴权优先 · 动态网页 · 真实 Chrome · 系统级实证规则
+  <b>23 个渠道：</b>全网搜索 · X · 小红书 · 抖音 · 微博 · B站 · YouTube · Reddit · Facebook · Instagram · LinkedIn · GitHub<br>
+  GitHub Trending · Hacker News · 微信公众号 · 学术论文 · Stack Overflow · 小宇宙 · V2EX · 雪球 · RSS · Exa 语义搜索 · 网页读取<br>
+  零鉴权优先 · 动态网页 · 真实 Chrome · 系统级实证规则
 </p>
 
 <p align="center">
