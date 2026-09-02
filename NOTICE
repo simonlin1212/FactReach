@@ -1,0 +1,14 @@
+FactReach
+=========
+
+FactReach is derived from Agent-Reach by Panniantong:
+https://github.com/Panniantong/Agent-Reach
+
+The original project is Copyright (c) 2025 Agent Eyes and licensed under the
+MIT License. FactReach modifications are Copyright (c) 2026 Simon Lin and are
+distributed under the same MIT License. The original copyright and permission
+notice are preserved in LICENSE.
+
+FactReach routes to optional third-party tools and services, including
+open-websearch, OpenCLI, Firecrawl, and browser-harness. Those projects remain
+under their respective licenses and are not relicensed by FactReach.

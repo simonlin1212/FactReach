@@ -1,0 +1,33 @@
+# FactReach
+
+> Evidence-first search and reading for AI agents. FactReach installs, routes, and health-checks upstream tools for 23 channels — including Douyin share-link parsing, Weibo reading, social platforms, video, GitHub, RSS, search, and multi-layer webpage extraction.
+
+## Quick Start
+
+- [Installation Guide](https://github.com/simonlin1212/FactReach/blob/main/docs/install.md): Step-by-step setup instructions for AI agents
+- [README (中文)](https://github.com/simonlin1212/FactReach/blob/main/README.md): Full documentation in Chinese
+- [README (English)](https://github.com/simonlin1212/FactReach/blob/main/README_en.md): Full documentation in English
+
+## Core Commands
+
+- [CLI Usage](https://github.com/simonlin1212/FactReach/blob/main/docs/install.md): `factreach doctor --json` shows the active backend; agents then call upstream tools directly (`opencli`, `twitter`, `bili`, `yt-dlp`, `gh`, `mcporter`, etc.).
+
+## Key Features
+
+- Read any URL: Douyin video/note share links, Weibo pages, tweets, Reddit posts, Facebook pages/feed/groups, Instagram profiles/posts, YouTube videos (transcripts), GitHub repos, articles, XiaoHongShu notes, Bilibili videos, RSS feeds
+- Search/discover across platforms: Twitter/X, Weibo, Reddit, Facebook, Instagram user search, GitHub, YouTube, Bilibili, XiaoHongShu, LinkedIn, V2EX, Xueqiu, zero-auth web search, Hacker News, academic indexes, Stack Overflow, GitHub Trending, and WeChat public articles
+- Self-diagnosis: `factreach doctor` checks what works and what needs setup
+- Auto-installs dependencies: `factreach install --env=auto`
+- Layered webpage extraction: zero-auth Jina Reader, optional Firecrawl hosted/self-hosted rendering, and explicit browser-harness access to real Chrome for login/interaction pages
+- Browser-session / cookie auth for platforms that require login (Twitter, Weibo, Reddit, Facebook, Instagram, XiaoHongShu, Xueqiu)
+- Proxy support for platforms that block server IPs (Reddit, Twitter)
+- Zero-auth routes remain the default. Optional hosted services such as Firecrawl or transcription providers may require a key, quota, or usage fees; self-hosted Firecrawl is supported.
+
+## Troubleshooting
+
+- [Troubleshooting Guide](https://github.com/simonlin1212/FactReach/blob/main/docs/troubleshooting.md): Common issues and solutions
+
+## Optional
+
+- [SKILL.md](https://github.com/simonlin1212/FactReach/blob/main/agent_reach/skill/SKILL.md): Integration guide for AI agent frameworks (OpenClaw, Claude Code, etc.)
+- [License and attribution](https://github.com/simonlin1212/FactReach/blob/main/NOTICE): upstream and optional-backend licensing notes
