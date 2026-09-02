@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Search first. Answer second. Make claims only after evidence.</b><br>
-  <b>23 channels:</b> Web Search · X · Xiaohongshu · Douyin · Weibo · Bilibili · YouTube · Reddit · Facebook · Instagram · LinkedIn · GitHub<br>
+  <b>23 internet channels:</b> Web Search · X · Xiaohongshu · Douyin · Weibo · Bilibili · YouTube · Reddit · Facebook · Instagram · LinkedIn · GitHub<br>
   GitHub Trending · Hacker News · WeChat Public Articles · Academic Papers · Stack Overflow · Xiaoyuzhou · V2EX · Xueqiu · RSS · Exa Search · Web Reader<br>
   Zero-auth first · Dynamic pages · Real Chrome · Evidence-first system policy
 </p>
