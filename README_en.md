@@ -29,14 +29,6 @@
 
 ---
 
-## Open to AI Roles in Shenzhen
-
-The author is open to AI roles in Shenzhen, particularly in **AI-powered investment research products, Forward Deployed Engineering (FDE), and AI consulting or solutions** at Tencent, other leading technology companies, and financial institutions.
-
-He combines experience in financial institutions with hands-on AI product development, building open-source market data tools and multi-agent systems with **17K+ GitHub stars**.
-
-Contact: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
 ## Why FactReach
 
 AI agents can write code and analyze documents, yet still answer questions about the real world from model memory. Data changes, pages require authentication, and dynamic content fails to render. The result can sound confident while lacking current evidence.
@@ -227,14 +219,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Use the private security channel for vul
 ## Disclaimer
 
 FactReach provides public-information retrieval, user-authorized session routing, and local tool configuration. It does not guarantee permanent access to third-party platforms. Users are responsible for complying with target-site terms, local laws, account rules, and any costs or risks associated with automation, cookies, or external services.
-
-## Support
-
-If FactReach saves you time, you can buy the author a coffee.
-
-<p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
-</p>
 
 ## License
 

@@ -29,14 +29,6 @@
 
 ---
 
-## 寻找深圳的 AI 工作机会
-
-作者目前正在寻找深圳的 AI 相关工作机会，重点关注腾讯等大型科技企业及金融机构的 **AI 投研产品、FDE 与 AI 咨询 / 解决方案岗位**。
-
-兼具金融机构从业经历与 AI 产品实战，持续构建金融市场数据工具和多智能体系统，开源项目累计获得 **17K+ GitHub Stars**。
-
-联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
 ## 为什么需要 FactReach
 
 Agent 能写代码、做分析，却经常在现实信息上直接依赖模型记忆：数据已经变化、页面需要登录、动态内容抓不到，最终仍可能给出语气确定但缺乏证据的答案。
@@ -227,14 +219,6 @@ python -m build
 ## 免责声明
 
 FactReach 只提供公开信息检索、用户授权会话路由和本地工具配置能力，不保证第三方平台接口永久可用。使用者需要遵守目标网站的服务条款、当地法律及账号规则，并自行承担自动化访问、Cookie 使用和第三方服务费用风险。
-
-## 赞赏
-
-如果 FactReach 节省了检索和配置时间，可以请作者喝杯咖啡。
-
-<p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
-</p>
 
 ## License
 
