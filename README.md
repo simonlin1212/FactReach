@@ -124,24 +124,34 @@ factreach policy --uninstall --target both --scope user
 
 ## 支持渠道
 
-| 分组 | 渠道 | 默认路线 |
-|---|---|---|
-| 全网与网页 | 全网搜索、普通网页、Exa、RSS | open-websearch、Jina Reader、Exa、feedparser |
-| 开发者信息 | GitHub、GitHub Trending、Hacker News、Stack Overflow | gh CLI、OpenCLI 公开适配器 |
-| 学术与公开内容 | arXiv / PubMed / OpenReview / DBLP / Semantic Scholar、公众号 | OpenCLI 公开适配器 / Browser Bridge |
-| 中文视频与社区 | 抖音、B站、小红书、微博、小宇宙、V2EX、雪球 | 内置解析、bili-cli、OpenCLI、Cookie 后端 |
-| 全球视频与社交 | YouTube、X、Reddit、Facebook、Instagram、LinkedIn | yt-dlp、twitter-cli、OpenCLI、MCP |
-| 动态与登录网页 | Firecrawl、真实 Chrome | Firecrawl API、browser-harness |
+<table>
+<thead>
+<tr><th nowrap>分组</th><th>渠道</th><th>默认路线</th></tr>
+</thead>
+<tbody>
+<tr><td nowrap>全网与网页</td><td>全网搜索、普通网页、Exa、RSS</td><td>open-websearch、Jina Reader、Exa、feedparser</td></tr>
+<tr><td nowrap>开发者信息</td><td>GitHub、GitHub Trending、Hacker News、Stack Overflow</td><td>gh CLI、OpenCLI 公开适配器</td></tr>
+<tr><td nowrap>学术与公开内容</td><td>arXiv / PubMed / OpenReview / DBLP / Semantic Scholar、公众号</td><td>OpenCLI 公开适配器 / Browser Bridge</td></tr>
+<tr><td nowrap>中文视频与社区</td><td>抖音、B站、小红书、微博、小宇宙、V2EX、雪球</td><td>内置解析、bili-cli、OpenCLI、Cookie 后端</td></tr>
+<tr><td nowrap>全球视频与社交</td><td>YouTube、X、Reddit、Facebook、Instagram、LinkedIn</td><td>yt-dlp、twitter-cli、OpenCLI、MCP</td></tr>
+<tr><td nowrap>动态与登录网页</td><td>Firecrawl、真实 Chrome</td><td>Firecrawl API、browser-harness</td></tr>
+</tbody>
+</table>
 
 注册表按独立能力计为 23 个渠道。实际可用状态取决于本机依赖和登录态，始终以 `factreach doctor --json` 为准。
 
 ## 鉴权层级
 
-| 层级 | 典型渠道 | 要求 |
-|---|---|---|
-| 零鉴权优先 | 全网搜索、普通网页、GitHub、B站、YouTube、RSS、论文库、技术社区、抖音单链接 | 安装对应公开 CLI；不需要平台 Cookie |
-| 浏览器登录态 | 小红书、微博、Reddit、Facebook、Instagram | 只使用用户已有且明确控制的会话 |
-| 用户自备凭据 | Exa、Firecrawl 托管版、Groq/OpenAI 转写 | Key 只保存在本地配置中 |
+<table>
+<thead>
+<tr><th nowrap>层级</th><th>典型渠道</th><th nowrap>要求</th></tr>
+</thead>
+<tbody>
+<tr><td nowrap>零鉴权优先</td><td>全网搜索、普通网页、GitHub、B站、YouTube、RSS、论文库、技术社区、抖音单链接</td><td nowrap>安装对应公开 CLI；不需要平台 Cookie</td></tr>
+<tr><td nowrap>浏览器登录态</td><td>小红书、微博、Reddit、Facebook、Instagram</td><td nowrap>只使用用户已有且明确控制的会话</td></tr>
+<tr><td nowrap>用户自备凭据</td><td>Exa、Firecrawl 托管版、Groq/OpenAI 转写</td><td nowrap>Key 只保存在本地配置中</td></tr>
+</tbody>
+</table>
 
 需要 Cookie 或登录态的平台建议使用专用账号。自动化访问可能触发平台限制；FactReach 不替用户登录，也不会静默扫描浏览器 Cookie。
 
